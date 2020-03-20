@@ -13,4 +13,4 @@
 - 贴心温暖<br>
 ![image](https://github.com/GitYiM/Epower/blob/master/imgs/%E8%B4%B4%E5%BF%83%E6%B8%A9%E6%9A%96.png)
 - 电力地产模块，数据的分析<br>
-!{image}(https://github.com/GitYiM/Epower/blob/master/imgs/%E7%94%B5%E5%8A%9B%E5%9C%B0%E4%BA%A7-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.png)
+![image](https://github.com/GitYiM/Epower/blob/master/imgs/%E7%94%B5%E5%8A%9B%E5%9C%B0%E4%BA%A7-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.png)
